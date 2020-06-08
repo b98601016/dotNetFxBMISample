@@ -25,6 +25,7 @@ namespace HealthMgr
             result = Weight / (height * height);
 
             return result;
+           
         }
     }
 }
